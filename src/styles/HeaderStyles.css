@@ -27,3 +27,24 @@
   font-size: 1.4rem;
   color: black;
 }
+/* HeaderStyles.css */
+.navigation-menu li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.navigation-menu li a {
+  color: white;
+  text-decoration: none;
+}
+
+.navigation-menu li button {
+  color: white;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.navigation-menu li button:hover {
+  color: goldenrod;
+}

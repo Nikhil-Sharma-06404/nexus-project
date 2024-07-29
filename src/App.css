@@ -1,0 +1,28 @@
+/* Ensure no global styles are causing extra margins or paddings */
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .content-wrap {
+    flex: 1; /* Takes up remaining space between header and footer */
+  }
+  
+  /* Ensure proper spacing between content and footer */
+.content-wrap {
+    flex: 1;
+    padding-bottom: 60px; /* Adjust to match the footer height */
+  }
+  
+  .hero-section {
+    margin-top: 64px; /* Adjust if needed to accommodate header height */
+  }
+  

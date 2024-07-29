@@ -28,33 +28,11 @@ const About = () => {
       >
         <Typography variant="h4">Welcome To My Resturant</Typography>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
+        Welcome to our restaurant, where tradition meets taste and every meal is a celebration of authentic Indian flavors. Our culinary journey began with a passion for bringing the rich and diverse tastes of India to your table. We pride ourselves on using the freshest ingredients and traditional recipes to create dishes that are not only delicious but also reflect the heritage and culture of India. From the vibrant spices of the north to the tangy and sweet flavors of the south, our menu is a testament to the culinary diversity of our homeland.
         </p>
         <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
+        At our restaurant, we believe that dining is an experience that goes beyond just food. Our warm and inviting atmosphere, coupled with our dedication to excellent service, ensures that every visit is a memorable one. Whether you're joining us for a casual meal with friends, a family celebration, or a special occasion, we strive to make your time with us exceptional. Our chefs are passionate about crafting dishes that delight your senses and our team is committed to providing a dining experience that makes you feel right at home. Join us and savor the flavors of India, where every bite tells a story.
         </p>
       </Box>
     </Layout>

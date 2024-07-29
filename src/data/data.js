@@ -9,42 +9,42 @@ export const MenuList = [
   {
     name: "Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Discover the authentic taste of South India with our delicious dosas!",
     image: Dosa,
     price: 200,
   },
   {
     name: "Chola",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Indulge in the rich and flavorful world of Chola, a beloved North Indian dish",
     image: Chola,
     price: 250,
   },
   {
     name: "Idli Sambhar",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Experience the authentic flavors of South India with our Idli Sambhar.",
     image: Idli,
     price: 300,
   },
   {
     name: "Masala Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Indulge in the rich and flavorful world of Dosa, a beloved South Indian dish",
     image: MasalaDosa,
     price: 100,
   },
   {
     name: "Paneer",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Paneer, a fresh, non-melting cheese, is a versatile ingredient",
     image: Paneer,
     price: 400,
   },
   {
     name: "Gujrati",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "Experience the vibrant and diverse flavors of Gujarati cuisine. ",
     image: Gujrati,
     price: 500,
   },
